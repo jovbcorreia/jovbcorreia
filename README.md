@@ -14,6 +14,10 @@
 
 ## 🧑‍💻 About Me
 
-> **5 years. Node.js. React. TypeScript. Production. Every time.**
+> **Full Stack Engineer who turns complex problems into clean, scalable solutions — back-end to front-end, spec to production.**
 
-Full Stack Engineer who has built **middleware**, shipped **multi-tenant SaaS across worldwide markets**.
+I build software that works. From architecting **Node.js back-ends** that handle real enterprise load, to crafting **React front-ends** users actually enjoy — I own the full stack and deliver end-to-end.
+
+With 5+ years of production experience, I've shipped a **multi-tenant SaaS platform** deployed across 4 countries, built **PHP middleware layers** processing millions of records, and engineered **real-time data pipelines** across multiple formats.
+
+I don't just write code — I architect systems, lead teams, and take full ownership from the first commit to live deployment.
