@@ -92,10 +92,18 @@ I don't just write code — I architect systems, lead teams, and take full owner
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovbcorreia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovbcorreia&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+**Language breakdown based on actual code in my repositories (via GitHub API)**
+
+| Language | % of Code |
+|---|---|
+| ☕ Java | 47.9% |
+| 🍎 Swift | 23.9% |
+| 🌐 HTML | 8.3% |
+| 🟦 TypeScript | 7.0% |
+| 🐍 Python | 6.1% |
+| 🟨 JavaScript | 3.7% |
+| 🎨 CSS | 2.4% |
+| 🗄️ PLpgSQL | 0.7% |
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovbcorreia&theme=tokyonight&hide_border=true" />
