@@ -36,7 +36,7 @@ I don't just write code — I architect systems, lead teams, and take full owner
 ### ⚡ Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,angular,nextjs,typescript,javascript,php,java,spring&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,angular,nextjs,typescript,javascript,php,java,spring,python&perline=10" />
 </p>
 
 ### 🏗️ Infrastructure & DevOps
@@ -85,25 +85,13 @@ I don't just write code — I architect systems, lead teams, and take full owner
 | Networking Essentials | Cisco | Apr 2023 |
 | Cybersecurity Essentials | Cisco | Feb 2023 |
 | Certified System Administrator | ServiceNow | 2022 |
+| AI for Everyone | DeepLearning.AI / Coursera | 2025 |
 
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
-**Language breakdown based on actual code in my repositories (via GitHub API)**
-
-| Language | % of Code |
-|---|---|
-| ☕ Java | 47.9% |
-| 🍎 Swift | 23.9% |
-| 🌐 HTML | 8.3% |
-| 🟦 TypeScript | 7.0% |
-| 🐍 Python | 6.1% |
-| 🟨 JavaScript | 3.7% |
-| 🎨 CSS | 2.4% |
-| 🗄️ PLpgSQL | 0.7% |
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovbcorreia&theme=tokyonight&hide_border=true" />
