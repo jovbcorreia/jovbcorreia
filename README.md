@@ -25,7 +25,7 @@ I don't just write code — I architect systems, lead teams, and take full owner
 - ⚡ **Back-End** — Node.js, TypeScript, PHP, REST & SOAP APIs, middleware, microservices
 - 🎨 **Front-End** — React, Angular, Next.js, TypeScript, responsive UI, component architecture
 - 🏗️ **Infrastructure** — Docker, AWS (certified), Nginx, Jenkins CI/CD, PostgreSQL, Redis
-- 🔗 **Integrations** — Enterprise SSO, multi-tenant SaaS, FOLIO, ServiceNow
+- 🔗 **Integrations** — REST, GraphQL, OAuth 2.0, OpenID Connect, Webhooks, Enterprise SSO, Stripe, OpenAI API, Twilio, FOLIO, ServiceNow
 - 🤖 **AI-augmented** — uses AI as a force multiplier to ship faster and smarter
 - 🌐 **4 languages** — 🇵🇹 Portuguese · 🇫🇷 French · 🇬🇧 English · 🇪🇸 Spanish
 
@@ -69,6 +69,13 @@ I don't just write code — I architect systems, lead teams, and take full owner
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![FOLIO](https://img.shields.io/badge/FOLIO-5C2D91?style=for-the-badge&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhooks-FF6600?style=for-the-badge&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenID](https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logoColor=white)
 
 </p>
 
@@ -85,7 +92,7 @@ I don't just write code — I architect systems, lead teams, and take full owner
 | Networking Essentials | Cisco | Apr 2023 |
 | Cybersecurity Essentials | Cisco | Feb 2023 |
 | Certified System Administrator | ServiceNow | 2022 |
-| AI for Everyone | DeepLearning.AI / Coursera | 2025 |
+| IBM Artificial Intelligence Fundamentals | IBM | Apr 2026 |
 
 </div>
 
