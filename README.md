@@ -87,24 +87,16 @@ I don't just write code — I architect systems, lead teams, and take full owner
 
 | 🏅 Certification | 🏢 Issuer | 📅 Date |
 |:---|:---|:---|
+| IBM Artificial Intelligence Fundamentals | IBM | Apr 2026 |
 | AWS Solutions Architect Fundamentals | Amazon Web Services | Mar 2026 |
 | AWS Cloud Practitioner Essentials | Amazon Web Services | Mar 2026 |
 | Networking Essentials | Cisco | Apr 2023 |
 | Cybersecurity Essentials | Cisco | Feb 2023 |
 | Certified System Administrator | ServiceNow | 2022 |
-| IBM Artificial Intelligence Fundamentals | IBM | Apr 2026 |
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovbcorreia&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 <div align="center">
 
